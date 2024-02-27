@@ -1,4 +1,4 @@
-2022 Philippine Tax Calculator
+**2022 Philippine Tax Calculator**
 
 An implementation of a Tax Calculator for the revised Philippine Tax Table for 2022. 
 
